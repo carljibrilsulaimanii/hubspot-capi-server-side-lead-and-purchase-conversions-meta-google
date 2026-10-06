@@ -1799,7 +1799,7 @@ the match when no click id is available (the production Google purchase test
 ran on email and address alone).
 
 The companion repo
-[hubspot-order-form-stripe-checkout-link-integration](https://github.com/jbrillionaire/hubspot-order-form-stripe-checkout-link-integration)
+[hubspot-order-form-stripe-checkout-link-integration](https://github.com/carljibrilsulaimanii/hubspot-order-form-stripe-checkout-link-integration)
 builds the order form that sends buyers to Stripe with their email and campaign
 attached, and writes the UTMs onto the payment record.
 
