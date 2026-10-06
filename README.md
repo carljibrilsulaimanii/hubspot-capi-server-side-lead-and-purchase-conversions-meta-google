@@ -490,6 +490,9 @@ association time to exist before `externalId` is read.
 
    Skip any optional row you have no property for. Don't leave a row blank:
    an unmapped row shows *"Property selection is required"* and blocks **Save**.
+   Type each input name exactly as shown, one name per row: a key with a space or
+   a slash (for example `firstName / lastName`) is refused with *"Key can only
+   include letters, numbers, and underscores."*
 
    The four `contact*` rows exist because the payment usually carries a *thin*
    identity: Stripe checkouts rarely return a phone or address, and the card
